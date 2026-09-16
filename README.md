@@ -46,9 +46,6 @@ Atualmente no **Bootcamp CI&T - Java AI Copilot** pela [DIO](https://dio.me), on
 
 <div align="center">
 
-![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatomachadoprog&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatomachadoprog&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renatomachadoprog&theme=tokyonight&hide_border=true&locale=pt_BR)
 
