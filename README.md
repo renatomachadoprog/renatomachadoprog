@@ -1,10 +1,6 @@
 # Renato Machado
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0043CE&center=true&vliines=false&width=500&lines=Estudante+de+Java+Backend;Bootcamp+CI%26T+%7C+DIO;Em+busca+de+estágio+na+área)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
@@ -15,8 +11,8 @@ Atualmente no **Bootcamp CI&T - Java AI Copilot** pela [DIO](https://dio.me), on
 
 - 🎯 Objetivo: **Estágio em Desenvolvimento**
 - 📍 Localização: Brasil
-- 📚 Estudando: `Java`
-- 💬 Me pergunte sobre: lógica de programação, Java orientado a objetos e estruturas de dados
+- 📚 Estudando: `Java`,`C#`,`.NET`,`mySQL`,
+- 💬 Me pergunte sobre: lógica de programação, Java, C#, .NET, mySQL
 
 ---
 
