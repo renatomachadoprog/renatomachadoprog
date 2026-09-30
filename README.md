@@ -4,15 +4,15 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNIP, focado em me tornar **Desenvolvedor Java Backend**.  
 Atualmente no **Bootcamp CI&T - Java AI Copilot** pela [DIO](https://dio.me), onde aprendo a construir APIs REST modernas com Spring Boot integradas a ferramentas de IA.
 
-- 🎯 Objetivo: **Estágio em Desenvolvimento**
-- 📍 Localização: Brasil
-- 📚 Estudando: `Java`,`C#`,`.NET`,`mySQL`,
-- 💬 Me pergunte sobre: lógica de programação, Java, C#, .NET, mySQL
+- Objetivo: **Estágio em Desenvolvimento**
+- Localização: Brasil
+- Estudando: `Java`,`C#`,`.NET`,`mySQL`,
+- Me pergunte sobre: lógica de programação, Java, C#, .NET, mySQL
 
 ---
 
