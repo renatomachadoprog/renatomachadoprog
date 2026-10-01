@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNIP, focado em me tornar **Desenvolvedor Backend** utilizando C#, .NET e Java.  
+Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIP, com foco em desenvolvimento Backend utilizando C#, .NET e Java. Atualmente desenvolvo projetos práticos para aprofundar meus conhecimentos em Engenharia de Software, Programação Orientada a Objetos e ASP.NET Core.
 
 
 - Objetivo: **Estágio em Desenvolvimento**
