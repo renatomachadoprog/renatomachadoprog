@@ -9,19 +9,30 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIP, com foco em d
 - Objetivo: **Estágio em Desenvolvimento**
 - Localização: Brasil
 - Estudando: `Java`,`C#`,`.NET`,`mySQL`,
-- Me pergunte sobre: lógica de programação, Java, C#, .NET, mySQL
+### Atualmente estudando
 
+- Programação Orientada a Objetos
+- Arquitetura de Software
+- C# / .NET
+- ASP.NET Core
+- MySQL
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
+### Stack
 <div align="left">
-
+  
+### Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -31,7 +42,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIP, com foco em d
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 📚 [java-basico](https://github.com/renatomachadoprog/java-basico) | Exercícios e projetos do Bootcamp CI&T Java AI Copilot | Java · POO |
+| 📚 [java](https://github.com/renatomachadoprog/java) | Exercícios e projetos do Bootcamp CI&T Java AI Copilot | Java · POO |
 
 ---
 
