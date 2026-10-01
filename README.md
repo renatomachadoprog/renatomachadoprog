@@ -1,13 +1,10 @@
 # Renato Machado
-
-
-
 ---
 
 ### Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNIP, focado em me tornar **Desenvolvedor Java Backend**.  
-Atualmente no **Bootcamp CI&T - Java AI Copilot** pela [DIO](https://dio.me), onde aprendo a construir APIs REST modernas com Spring Boot integradas a ferramentas de IA.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNIP, focado em me tornar **Desenvolvedor Backend** utilizando C#, .NET e Java.  
+
 
 - Objetivo: **Estágio em Desenvolvimento**
 - Localização: Brasil
